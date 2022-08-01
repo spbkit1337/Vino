@@ -17,3 +17,4 @@
 Скриншот🦉
 
 
+![Screenshot 2022-08-01 at 13-36-29 Магазин вина_result](https://user-images.githubusercontent.com/51737588/182132523-6f1a89da-a568-4409-b3ca-ddeed619d2fe.jpg)
