@@ -7,7 +7,8 @@
 
 .body {
 
-    margin: 0 auto;
+    margin: 0px;
+    padding: 0px;
     font-family: 'Montserrat' , normal;
     font-size: 14px;
     font-weight: 400;
