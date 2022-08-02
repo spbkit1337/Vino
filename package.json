@@ -1,15 +1,20 @@
 {
   "dependencies": {
+    "gulp": "^4.0.2",
     "normalize.css": "^8.0.1"
   },
   "name": "vino-store",
   "version": "1.0.0",
   "main": "script.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Max",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cssbeautify": "^3.0.1",
+    "gulp-webp": "^4.0.1"
+  }
 }
