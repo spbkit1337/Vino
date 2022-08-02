@@ -50,6 +50,12 @@
 ![после конвертации](https://user-images.githubusercontent.com/51737588/182333470-9220f4a2-a8c6-44db-93ac-3c27240b39bb.jpg)
 
 
+
+Все плагины я устанавливал через терминал при помощи пакетного менеджера "npm"
+
+![npm](https://user-images.githubusercontent.com/51737588/182335242-804c3a88-a6a4-4b44-ab08-1f388268dc38.png)
+
+
 Какие плагины gulp в итоге попробавал:
 
 Код без лишних пробелов (не путать с минификацией) - https://www.npmjs.com/package/gulp-cssbeautify
